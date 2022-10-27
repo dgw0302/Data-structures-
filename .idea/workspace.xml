@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3abf51be-adb3-4d26-a067-3a4347d4e44e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../04201175-党国伟/TC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TC/src/main/java/com/welcome/service/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TC/src/main/java/com/welcome/service/impl/RegisterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程以及并发/src/main/java/CAS/线程AB轮流加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程以及并发/src/main/java/集合/Arraylist集合删除抛异常.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程以及并发/src/main/java/集合/集合自定义排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/二分/两个有序数组第k小数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/二分/格林深瞳.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/位运算/多进制转十进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/单例/双重检测.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/单例/懒汉线程不安全.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/单例/懒汉线程安全.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/单例/静态内部类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/单例/饿汉式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/堆/手撕堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/字符串/IP地址/求一个数字字符串的所有合法ip地址.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/字节/A数组中的元素组成的小于n的最大数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/字节/第一次出现次数最多的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/快排/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/数组/数组组成最大的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/数组/数组重排最大数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/百度/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/百度/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/笔试/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/蚂蚁笔试/秋招笔试九一五.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/src/main/java/面试算法/算法题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/HashMap/手写HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/LRU/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/Redis/跳表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/Redis/跳表Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/Redis/跳表练习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/lc额外算法题/会议室2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/堆/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/堆/手撕堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/多线程/轮流打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/实现一个阻塞队列/阻塞队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/生产者与消费者/producerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/生产者与消费者/生产者消费者模型手撕.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/线程池/ThreadPoolTrader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/线程池/leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/线程池/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/线程池/手写线程池.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/设计模式/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典数据结构/src/main/java/链表/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\d'g'w\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DHyfGwmp3MYwyuo6Qqx3aKK2Us" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/TC_final" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dgw\Java基础与复习\经典数据结构\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuickSort (1)">
+    <configuration name="手撕堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.堆.手撕堆排序" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.堆.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.百度.QuickSort" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.百度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.快排.QuickSort" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.快排.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.百度.Test" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.百度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="手撕堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.堆.手撕堆排序" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.堆.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="堆.堆排序" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="堆.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="算法题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.面试算法.算法题" />
+      <module name="Java基础与复习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.面试算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="producerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="生产者与消费者.producerAndConsumer" />
+      <module name="经典数据结构" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="生产者与消费者.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort (1)" />
+        <item itemvalue="Application.手撕堆排序" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.producerAndConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3abf51be-adb3-4d26-a067-3a4347d4e44e" name="Default Changelist" comment="" />
+      <created>1660370411707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660370411707</updated>
+      <workItem from="1660370423328" duration="149000" />
+      <workItem from="1660370595740" duration="5021000" />
+      <workItem from="1660735602413" duration="353000" />
+      <workItem from="1660828386520" duration="245000" />
+      <workItem from="1660834288507" duration="134000" />
+      <workItem from="1660893560107" duration="2762000" />
+      <workItem from="1660906682128" duration="95000" />
+      <workItem from="1660913916695" duration="3012000" />
+      <workItem from="1660980069195" duration="69000" />
+      <workItem from="1661008921863" duration="431000" />
+      <workItem from="1661077609883" duration="8605000" />
+      <workItem from="1661162384659" duration="4266000" />
+      <workItem from="1661172516309" duration="1956000" />
+      <workItem from="1661232582965" duration="3113000" />
+      <workItem from="1661402222253" duration="2013000" />
+      <workItem from="1661869525398" duration="64000" />
+      <workItem from="1661938280127" duration="660000" />
+      <workItem from="1662178227645" duration="516000" />
+      <workItem from="1662218301179" duration="49000" />
+      <workItem from="1662275847366" duration="597000" />
+      <workItem from="1662358469079" duration="3056000" />
+      <workItem from="1662388061391" duration="1126000" />
+      <workItem from="1662389263775" duration="5000" />
+      <workItem from="1662389355983" duration="195000" />
+      <workItem from="1662389595299" duration="1313000" />
+      <workItem from="1662430204623" duration="82000" />
+      <workItem from="1662430734207" duration="250000" />
+      <workItem from="1662478430873" duration="29000" />
+      <workItem from="1662533332863" duration="46000" />
+      <workItem from="1662631676364" duration="978000" />
+      <workItem from="1662733406066" duration="135000" />
+      <workItem from="1663128004713" duration="77000" />
+      <workItem from="1663666310503" duration="121000" />
+      <workItem from="1663666456379" duration="414000" />
+      <workItem from="1663666891462" duration="1208000" />
+      <workItem from="1663671129269" duration="1319000" />
+      <workItem from="1663816655703" duration="632000" />
+      <workItem from="1664002031079" duration="166000" />
+      <workItem from="1664002224738" duration="5622000" />
+      <workItem from="1664029175132" duration="1517000" />
+      <workItem from="1664102335604" duration="331000" />
+      <workItem from="1664115832304" duration="694000" />
+      <workItem from="1664160960259" duration="635000" />
+      <workItem from="1664163071471" duration="42000" />
+      <workItem from="1664168051266" duration="3409000" />
+      <workItem from="1664177136962" duration="3165000" />
+      <workItem from="1664202516026" duration="1600000" />
+      <workItem from="1664204152955" duration="863000" />
+      <workItem from="1664258006605" duration="1289000" />
+      <workItem from="1664266761652" duration="314000" />
+      <workItem from="1664269462200" duration="1681000" />
+      <workItem from="1664595432640" duration="1992000" />
+      <workItem from="1664612833111" duration="10000" />
+      <workItem from="1664772568855" duration="427000" />
+      <workItem from="1664777706992" duration="6915000" />
+      <workItem from="1664785588396" duration="336000" />
+      <workItem from="1664796432403" duration="2083000" />
+      <workItem from="1664803001132" duration="2377000" />
+      <workItem from="1664808066701" duration="22000" />
+      <workItem from="1664860399165" duration="874000" />
+      <workItem from="1664874174452" duration="1000" />
+      <workItem from="1665033498483" duration="3197000" />
+      <workItem from="1665321219216" duration="30000" />
+      <workItem from="1665389721525" duration="1569000" />
+      <workItem from="1665408700665" duration="1997000" />
+      <workItem from="1665481370329" duration="831000" />
+      <workItem from="1665560275033" duration="2234000" />
+      <workItem from="1665564738386" duration="264000" />
+      <workItem from="1665565023270" duration="84000" />
+      <workItem from="1665632316985" duration="2318000" />
+      <workItem from="1665643785090" duration="1570000" />
+      <workItem from="1665663389693" duration="139000" />
+      <workItem from="1665730355271" duration="3122000" />
+      <workItem from="1665739455327" duration="6625000" />
+      <workItem from="1665797796689" duration="3397000" />
+      <workItem from="1665884205173" duration="151000" />
+      <workItem from="1665908448242" duration="142000" />
+      <workItem from="1665919064125" duration="13000" />
+      <workItem from="1665999274904" duration="1387000" />
+      <workItem from="1666058901824" duration="24000" />
+      <workItem from="1666075128125" duration="28000" />
+      <workItem from="1666100170956" duration="1119000" />
+      <workItem from="1666164862545" duration="8438000" />
+      <workItem from="1666321189671" duration="1199000" />
+      <workItem from="1666327423668" duration="480000" />
+      <workItem from="1666327921718" duration="5277000" />
+      <workItem from="1666355135903" duration="19000" />
+      <workItem from="1666357651131" duration="1627000" />
+      <workItem from="1666361804846" duration="3074000" />
+      <workItem from="1666590777142" duration="607000" />
+      <workItem from="1666785616200" duration="2718000" />
+      <workItem from="1666789500476" duration="57000" />
+      <workItem from="1666854715226" duration="456000" />
+      <workItem from="1666870382324" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../jdk8/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>495</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="re" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

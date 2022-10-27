@@ -2,7 +2,7 @@ package main.java.位运算;
 
 public class 多进制转十进制 {
     public static void main(String[] args) {
-
+        System.out.println("dgw");
     }
 
     public String jisuan(int n, int x) {
